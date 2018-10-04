@@ -12,7 +12,8 @@ Set up super fast a PHP5 development box with apache, mysql, phpmyadmin and what
     <a href="http://docs.vagrantup.com/v2/installation/" /target="_blank">Getting Started document</a>
   </li>
   <li>Clone this repository and run $ vagrant up</li>
-  <li>Put your php files inside the sites folder</li>
+  <li>Put your php files inside the www folder</li>
+  <li>Put your projects folder inside the www-vhost folder</li>
   <li>Acess localhost:8080 and enjoy!</li>
 </ul>
 
